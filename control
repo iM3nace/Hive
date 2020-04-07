@@ -1,5 +1,5 @@
 Package: com.muirey03.hive
-Name: Hive13
+Name: Hive
 Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
 Version: 1.1
 Architecture: iphoneos-arm
