@@ -1,9 +1,9 @@
 Package: com.muirey03.hive
-Name: Hive
+Name: Hive13
 Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
-Version: 1.0.4
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Redesigned passcode screen
-Maintainer: Muirey03
-Author: Muirey03
+Maintainer: iM3nace
+Author: iM3nace & Muirey03
 Section: Tweaks
